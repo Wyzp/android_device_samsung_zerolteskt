@@ -1,5 +1,6 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_zerolteskt.mk \
+    $(LOCAL_DIR)/aicp.mk \
     $(LOCAL_DIR)/aokp.mk \
     $(LOCAL_DIR)/aosp_zerolteskt.mk \
     $(LOCAL_DIR)/gzosp.mk \
