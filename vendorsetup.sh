@@ -14,6 +14,7 @@
 # limitations under the License.
 #
 
+add_lunch_combo aicp_zerolteskt-userdebug
 add_lunch_combo aokp_zerolteskt-userdebug
 add_lunch_combo aosp_zerolteskt-userdebug
 add_lunch_combo gzosp_zerolteskt-userdebug
