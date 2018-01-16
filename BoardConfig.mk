@@ -32,6 +32,9 @@ TARGET_SPECIFIC_HEADER_PATH += device/samsung/zerolteskt/include
 # Kernel (Default kernel works well according to users)
 TARGET_KERNEL_CONFIG := lineageos_zeroltexx_defconfig
 
+# OTA
+TARGET_OTA_DISABLE_BROTLI := true
+
 # Partitions
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 3124019200
 
